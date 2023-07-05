@@ -1,0 +1,25 @@
+@charset "UTF-8";
+#navbar{
+	width:150%;
+	height:60px;
+	background-color:navy;
+	position: fixed;
+	padding: 10px;
+	left: 0%;
+	right: 0%;
+	top:0%;
+	font-size: 1em;
+	
+	
+}
+
+#navbar a{
+	color:white;
+	text-decoration:none;
+	
+	
+}
+#main{
+	padding-top: 50px;
+	text-align: center;
+}
